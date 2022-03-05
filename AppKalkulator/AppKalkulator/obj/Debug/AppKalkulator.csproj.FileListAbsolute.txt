@@ -1,0 +1,11 @@
+D:\00_File Kampus\S4\KPL\PRAKTIKUM\TP KPL\modul2_1302200020\AppKalkulator\AppKalkulator\obj\Debug\AppKalkulator.csproj.AssemblyReference.cache
+D:\00_File Kampus\S4\KPL\PRAKTIKUM\TP KPL\modul2_1302200020\AppKalkulator\AppKalkulator\obj\Debug\AppKalkulator.csproj.SuggestedBindingRedirects.cache
+D:\00_File Kampus\S4\KPL\PRAKTIKUM\TP KPL\modul2_1302200020\AppKalkulator\AppKalkulator\obj\Debug\AppKalkulator.Form1.resources
+D:\00_File Kampus\S4\KPL\PRAKTIKUM\TP KPL\modul2_1302200020\AppKalkulator\AppKalkulator\obj\Debug\AppKalkulator.Properties.Resources.resources
+D:\00_File Kampus\S4\KPL\PRAKTIKUM\TP KPL\modul2_1302200020\AppKalkulator\AppKalkulator\obj\Debug\AppKalkulator.csproj.GenerateResource.cache
+D:\00_File Kampus\S4\KPL\PRAKTIKUM\TP KPL\modul2_1302200020\AppKalkulator\AppKalkulator\obj\Debug\AppKalkulator.csproj.CoreCompileInputs.cache
+D:\00_File Kampus\S4\KPL\PRAKTIKUM\TP KPL\modul2_1302200020\AppKalkulator\AppKalkulator\bin\Debug\AppKalkulator.exe.config
+D:\00_File Kampus\S4\KPL\PRAKTIKUM\TP KPL\modul2_1302200020\AppKalkulator\AppKalkulator\bin\Debug\AppKalkulator.exe
+D:\00_File Kampus\S4\KPL\PRAKTIKUM\TP KPL\modul2_1302200020\AppKalkulator\AppKalkulator\bin\Debug\AppKalkulator.pdb
+D:\00_File Kampus\S4\KPL\PRAKTIKUM\TP KPL\modul2_1302200020\AppKalkulator\AppKalkulator\obj\Debug\AppKalkulator.exe
+D:\00_File Kampus\S4\KPL\PRAKTIKUM\TP KPL\modul2_1302200020\AppKalkulator\AppKalkulator\obj\Debug\AppKalkulator.pdb
